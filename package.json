@@ -1,6 +1,6 @@
 {
 	"name": "@younho9/not",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Type guard based on exclude",
 	"keywords": [
 		"typescript",
